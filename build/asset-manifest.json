@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nevapernadalreact/static/css/main.24270093.css",
+    "main.js": "/nevapernadalreact/static/js/main.67d71292.js",
+    "static/js/787.bc05907b.chunk.js": "/nevapernadalreact/static/js/787.bc05907b.chunk.js",
+    "index.html": "/nevapernadalreact/index.html",
+    "main.24270093.css.map": "/nevapernadalreact/static/css/main.24270093.css.map",
+    "main.67d71292.js.map": "/nevapernadalreact/static/js/main.67d71292.js.map",
+    "787.bc05907b.chunk.js.map": "/nevapernadalreact/static/js/787.bc05907b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24270093.css",
+    "static/js/main.67d71292.js"
+  ]
+}
